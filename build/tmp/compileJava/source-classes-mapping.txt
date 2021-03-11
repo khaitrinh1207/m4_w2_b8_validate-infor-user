@@ -1,0 +1,8 @@
+com_codegym_m4_w2_b8/controller/UserController.java
+ com_codegym_m4_w2_b8.controller.UserController
+com_codegym_m4_w2_b8/model/User.java
+ com_codegym_m4_w2_b8.model.User
+com_codegym_m4_w2_b8/config/AppInit.java
+ com_codegym_m4_w2_b8.config.AppInit
+com_codegym_m4_w2_b8/config/ApplicationConfig.java
+ com_codegym_m4_w2_b8.config.ApplicationConfig
